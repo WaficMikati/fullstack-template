@@ -9,6 +9,7 @@ flask-sqlalchemy = "*"
 flask-migrate = "*"
 flask-cors = "*"
 python-dotenv = "*"
+colorama = "*"
 
 [dev-packages]
 pytest = "*"
