@@ -24,6 +24,7 @@ export default function Users() {
             <b>Email: </b>
             {e.email}
           </span>
+          <br />
         </>
       ))}
     </>
